@@ -1,0 +1,26 @@
+# JetBrains/IntelliJ
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build artifacts
+target/
+bin/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Credentials / local config
+*.env
+secrets*
+config*.json
