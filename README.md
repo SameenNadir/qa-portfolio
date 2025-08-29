@@ -23,13 +23,12 @@ This portfolio demonstrates **manual** and **automation** testing skills on an e
 
 ## ✅ Contents
 ```
-QA-Portfolio/
-├─ Automation-Testing/
-│  └─ DarazAutomation.java
-├─ Manual-Testing/
-│  ├─ Daraz_Test_Cases.xlsx
-│  └─ Daraz_Bug_Report.docx
-└─ README.md
+qa-Portfolio/
+.gitignore
+DarazAutomation.java
+Daraz_Bug_Report.docx
+Daraz_Test_Cases.xlsx
+README.md
 ```
 
 ## 🌟 Notes
