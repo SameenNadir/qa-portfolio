@@ -35,7 +35,7 @@ README.md
 - Keep secrets out of source control. Use environment variables or config files excluded via `.gitignore`.
 - Future improvements: add TestNG, assertions, Page Object Model (POM), CI pipeline.
 
-## 📬 Contact (sample placeholders)
+## 📬 Contact 
 - LinkedIn: https://www.linkedin.com/in/sameennadir2003?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - GitHub: https://github.com/SameenNadir/qa-portfolio.git
 - Email: sameen.nadir25@gmail.com
