@@ -38,5 +38,5 @@ QA-Portfolio/
 
 ## 📬 Contact (sample placeholders)
 - LinkedIn: https://www.linkedin.com/in/sameennadir2003?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- GitHub: https://github.com/your-handle
+- GitHub: https://github.com/SameenNadir/qa-portfolio.git
 - Email: sameen.nadir25@gmail.com
